@@ -1,2 +1,2 @@
 # KailaniBayy.Art
-*Coming Soon*
+*"Hello! Welcome to my ART repository!"*
