@@ -1,2 +1,2 @@
 # KailaniBayy.Art
-*"Hello! Welcome to my ART repository!"*
+> *"Hello! Welcome to my ART repository!"*
