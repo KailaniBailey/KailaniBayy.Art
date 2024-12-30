@@ -1,5 +1,5 @@
 # KailaniBayy.Art
-> *"Hello! Welcome to my ART repository!"*
+> *"Hello! Welcome to my ART repository. I'm always updating this repos with previous and current art projects and digital creations. I enjoy using different mediums for drawings and canvas paintings... although I do tend to draw with pens, markers, and colored pencils more than anything. I'm also an oil painter and only use oil paint for any/all canvas paintings."*
 ## Table of Contents
 01. [Moleskin Sketchbooks](https://github.com/KailaniBailey/KailaniBayy.Art/tree/main/01.%20Moleskin%20Sketchbooks)
 02. ["Out of Stock" Prints](https://github.com/KailaniBailey/KailaniBayy.Art/tree/main/02.%20%22Out%20of%20Stock%22%20Prints)
