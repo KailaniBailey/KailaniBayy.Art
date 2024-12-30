@@ -1,6 +1,6 @@
 # KailaniBayy.Art
 > *"Hello! Welcome to my ART repository!"*
-# Portfolio Content
+## Portfolio Content
 01. [Moleskin Sketchbooks](https://github.com/KailaniBailey/KailaniBayy.Art/tree/main/01.%20Moleskin%20Sketchbooks)
 02. ["Out of Stock" Prints](https://github.com/KailaniBailey/KailaniBayy.Art/tree/main/02.%20%22Out%20of%20Stock%22%20Prints)
 03. [Canvas Oil Paintings](https://github.com/KailaniBailey/KailaniBayy.Art/tree/main/03.%20Canvas%20Oil%20Paintings)
