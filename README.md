@@ -1,7 +1,7 @@
 # KailaniBayy.Art
 > *"Hello! Welcome to my ART repository!"*
 # Portfolio Content
-01. Moleskin Sketchbooks
+01. [Moleskin Sketchbooks](https://github.com/KailaniBailey/KailaniBayy.Art/tree/main/01.%20Moleskin%20Sketchbooks)
 02. "Out of Stock" Prints
 03. Canvas Oil Paintings
 04. Prints for Sale $$
